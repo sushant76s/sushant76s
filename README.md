@@ -2,7 +2,7 @@
 
 I am a _Computer Engineering UG_ student at _BBAU (A Central University) Lucknow_.
 
-![](https://komarev.com/ghpvc/?susverma=your-github-susverma)
+![](https://komarev.com/ghpvc/?username=susverma)
 
 <!--
 ## Coding Profiles 💻
