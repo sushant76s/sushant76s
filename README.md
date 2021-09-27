@@ -22,6 +22,8 @@ I am a _Computer Engineering UG_ student at _BBAU (A Central University) Lucknow
 [**LinkedIn**](https://www.linkedin.com/in/susverma/) | [**Twitter**](https://twitter.com/sushantverma__) | [**Instagram**](https://instagram.com/sushantverma__)
 
 ![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=susverma&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=susverma&layout=compact)](https://github.com/susverma/github-readme-stats)
+
 
 <!--
 **susverma/susverma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
