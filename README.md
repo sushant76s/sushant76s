@@ -1,3 +1,7 @@
+<!-- header picture -->
+<!-- [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/) -->
+
+
 ### Hi there, I'm Sushant Verma - aka [susverma]👋
 
 I am a _Computer Engineering UG_ student at _BBAU (A Central University) Lucknow_.
@@ -16,6 +20,8 @@ I am a _Computer Engineering UG_ student at _BBAU (A Central University) Lucknow
 ## Connect with Me ☎️
 
 [**LinkedIn**](https://www.linkedin.com/in/susverma/) | [**Twitter**](https://twitter.com/sushantverma__) | [**Instagram**](https://instagram.com/sushantverma__)
+
+![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=susverma&show_icons=true&theme=radical)
 
 <!--
 **susverma/susverma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
