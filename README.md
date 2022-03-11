@@ -1,6 +1,8 @@
 <!-- header picture -->
 <!-- [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/) -->
 
+![I am GitHub Readme Generator's creator](https://github.com/susverma/susverma/blob/main/Images/GitHub_Banner.jpg?raw=true)
+
 
 ### Hi there, I'm Sushant Verma - aka [susverma]👋
 
