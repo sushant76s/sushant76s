@@ -18,15 +18,15 @@ I am a _Computer Engineering UG_ student at _BBAU (A Central University) Lucknow
 [**LinkedIn**](https://www.linkedin.com/in/susverma/) | [**Twitter**](https://twitter.com/sushantverma__) | [**Instagram**](https://instagram.com/sushantverma__)
 
 ## Stats
-<!-- ![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=susverma&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=susverma&layout=compact&theme=dark)](https://github.com/susverma/github-readme-stats) -->
+![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=susverma&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=susverma&&theme=dark)](https://github.com/susverma/github-readme-stats)
 
-<div style="display: flex; flex-direction: row;">
+<!-- <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=susverma&show_icons=true&theme=dark" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susverma&theme=dark" />
-</div>
+</div> -->
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=susverma&theme=dark)](https://github.com/susverma/github-readme-activity-graph)
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=susverma&theme=react-dark)](https://github.com/susverma/github-readme-activity-graph)
 
 <!--
 **susverma/susverma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
