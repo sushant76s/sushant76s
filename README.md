@@ -17,6 +17,8 @@ I am a _Computer Engineering UG_ student at _BBAU (A Central University) Lucknow
 ## Connect with Me ☎️
 [**LinkedIn**](https://www.linkedin.com/in/susverma/) | [**Twitter**](https://twitter.com/sushantverma__) | [**Instagram**](https://instagram.com/sushantverma__)
 
+
+<!-- For stats -->
 ## Stats
 ![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=susverma&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=susverma&&theme=dark)](https://github.com/susverma/github-readme-stats)
@@ -26,7 +28,19 @@ I am a _Computer Engineering UG_ student at _BBAU (A Central University) Lucknow
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susverma&theme=dark" />
 </div> -->
 
+
+
+<!-- Code for Activity graph -->
 [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=susverma&theme=react-dark)](https://github.com/susverma/github-readme-activity-graph)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/susverma)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=susverma)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+![GitHub metrics](https://metrics.lecoq.io/susverma)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=susverma)  
 
 <!--
 **susverma/susverma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
