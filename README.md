@@ -21,6 +21,7 @@ I am a _Computer Engineering UG_ student at _BBAU (A Central University) Lucknow
 ![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=susverma&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=susverma&layout=compact&theme=dark)](https://github.com/susverma/github-readme-stats)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=susverma)
 
 <!--
 **susverma/susverma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
