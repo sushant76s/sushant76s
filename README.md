@@ -13,10 +13,7 @@ I am a _Computer Engineering UG_ student at _BBAU (A Central University) Lucknow
 [**hackerEarth**](http://www.hackerearth.com/@susverma) |
 [**GeeksForGeeks**](https://auth.geeksforgeeks.org/user/susverma/profile) |
 [**FreeCodeCamp**](https://www.freecodecamp.org/susverma)
-## Connect with Me ☎️
-[<img style = "padding : 30px" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/susverma/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sushantverma__)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sushantverma__/)  
+## Connect with Me ☎️ 
 [**LinkedIn**](https://www.linkedin.com/in/susverma/) | [**Twitter**](https://twitter.com/sushantverma__) | [**Instagram**](https://instagram.com/sushantverma__)
 
 
