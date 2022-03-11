@@ -23,7 +23,7 @@ I am a _Computer Engineering UG_ student at _BBAU (A Central University) Lucknow
 
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=susverma&show_icons=true&theme=radical" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susverma&theme=radical&layout=compact" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susverma&theme=radical" />
 </div>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=susverma)
