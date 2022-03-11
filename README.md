@@ -33,14 +33,12 @@ I am a _Computer Engineering UG_ student at _BBAU (A Central University) Lucknow
 <!-- Code for Activity graph -->
 [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=susverma&theme=react-dark)](https://github.com/susverma/github-readme-activity-graph)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/susverma)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=susverma)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=susverma)](https://github.com/ryo-ma/github-profile-trophy) -->
 
+<!-- ![GitHub metrics](https://metrics.lecoq.io/susverma)   -->
 
-![GitHub metrics](https://metrics.lecoq.io/susverma)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=susverma)  
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=susverma)   -->
 
 <!--
 **susverma/susverma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
