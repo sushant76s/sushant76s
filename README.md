@@ -1,4 +1,4 @@
-![Image](https://github.com/susverma/susverma/blob/main/Images/GitHub_Banner2.jpg?raw=true)
+<!-- ![Image](https://github.com/susverma/susverma/blob/main/Images/GitHub_Banner2.jpg?raw=true) -->
 
 
 ### Hi there, I'm Sushant Verma 👋
