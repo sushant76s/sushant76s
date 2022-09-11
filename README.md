@@ -3,16 +3,16 @@
 
 ### Hi there, I'm Sushant Verma 👋
 
-I am a _Computer Engineering UG_ student at _BBAU (A Central University) Lucknow_.
+I am a Computer Engineering UG student at Babasaheb Bhimrao Ambedkar University (A Central University), Lucknow.
 
 ![](https://komarev.com/ghpvc/?username=susverma&color=red&label=PROFILE+VIEWS)
 
 
-## Coding Profiles 💻
+<!-- ## Coding Profiles 💻
 [**HackerRank**](https://www.hackerrank.com/susverma) |
 [**hackerEarth**](http://www.hackerearth.com/@susverma) |
 [**GeeksForGeeks**](https://auth.geeksforgeeks.org/user/susverma/profile) |
-[**FreeCodeCamp**](https://www.freecodecamp.org/susverma)
+[**FreeCodeCamp**](https://www.freecodecamp.org/susverma) -->
 ## Connect with Me ☎️ 
 [**LinkedIn**](https://www.linkedin.com/in/susverma/) | [**Twitter**](https://twitter.com/sushantverma__) | [**Instagram**](https://instagram.com/sushantverma__)
 
