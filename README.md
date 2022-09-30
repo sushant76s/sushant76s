@@ -17,6 +17,8 @@ I am a Computer Engineering UG student at Babasaheb Bhimrao Ambedkar University 
 [**LinkedIn**](https://www.linkedin.com/in/susverma/) | [**Twitter**](https://twitter.com/sushantverma__) | [**Instagram**](https://instagram.com/sushantverma__)
 
 ## Badges
+![image](https://user-images.githubusercontent.com/60610128/193321867-69e9d1ec-0d69-4868-938d-f1b6b9482108.png)
+
 [![@susverma's Holopin board](https://holopin.io/api/user/board?user=susverma)](https://holopin.io/@susverma)
 ![image](https://user-images.githubusercontent.com/60610128/193321706-7b8bfe81-8dba-48c3-a159-7cdf66826d50.png)
 
