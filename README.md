@@ -19,7 +19,7 @@ I am a Computer Engineering UG student at Babasaheb Bhimrao Ambedkar University 
 ## Badges
 [![@susverma's Holopin board](https://holopin.io/api/user/board?user=susverma)](https://holopin.io/@susverma)
 ![image](https://user-images.githubusercontent.com/60610128/193321706-7b8bfe81-8dba-48c3-a159-7cdf66826d50.png)
-
+![image](https://res.cloudinary.com/practicaldev/image/fetch/s--rX-dH2o3--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/206/ht-badge.png)
 
 <!-- For stats -->
 ## Stats
