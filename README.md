@@ -5,7 +5,7 @@
 
 I am a Computer Engineering UG student at Babasaheb Bhimrao Ambedkar University (A Central University), Lucknow.
 
-![](https://komarev.com/ghpvc/?username=susverma&color=red&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=susverma&color=red&label=Visitors)
 
 
 <!-- ## Coding Profiles 💻
@@ -41,10 +41,10 @@ I am a Computer Engineering UG student at Babasaheb Bhimrao Ambedkar University 
 ![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=susverma&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=susverma&&theme=dark)](https://github.com/susverma/github-readme-stats)
 
-<!-- <div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=susverma&show_icons=true&theme=dark" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susverma&theme=dark" />
-</div> -->
+</div>
 
 
 
