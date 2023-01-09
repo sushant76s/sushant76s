@@ -31,11 +31,6 @@ I am a Computer Engineering UG student at Babasaheb Bhimrao Ambedkar University 
 </a>  
 </div> 
 
-## Badges
-[![@susverma's Holopin board](https://holopin.io/api/user/board?user=susverma)](https://holopin.io/@susverma)
-![image](https://user-images.githubusercontent.com/60610128/193321706-7b8bfe81-8dba-48c3-a159-7cdf66826d50.png)
-![image](https://res.cloudinary.com/practicaldev/image/fetch/s--rX-dH2o3--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/206/ht-badge.png)
-
 <!-- For stats -->
 ## Stats
 <!-- ![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=susverma&show_icons=true&theme=dark)
@@ -47,9 +42,15 @@ I am a Computer Engineering UG student at Babasaheb Bhimrao Ambedkar University 
 </div> -->
 
 <div style="display:inline">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susverma&layout=compact&theme=dark" alt="Github Stats" width="375px" />
-<img src="https://github-readme-stats.vercel.app/api?username=susverma&show_icons=true&theme=dark" alt="Github Stats" width="450px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susverma&layout=compact&theme=tokyonight" alt="Github Stats" width="375px" />
+<img src="https://github-readme-stats.vercel.app/api?username=susverma&show_icons=true&theme=tokyonight" alt="Github Stats" width="450px" />
 </div>
+
+## Badges
+[![@susverma's Holopin board](https://holopin.io/api/user/board?user=susverma)](https://holopin.io/@susverma)
+![image](https://user-images.githubusercontent.com/60610128/193321706-7b8bfe81-8dba-48c3-a159-7cdf66826d50.png)
+![image](https://res.cloudinary.com/practicaldev/image/fetch/s--rX-dH2o3--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/206/ht-badge.png)
+
 
 
 
