@@ -41,20 +41,20 @@ I am a Computer Engineering UG student at Babasaheb Bhimrao Ambedkar University 
 <!-- ![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=susverma&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=susverma&&theme=dark)](https://github.com/susverma/github-readme-stats) -->
 
-<div style="display: flex; flex-direction: row;">
+<!-- <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=susverma&show_icons=true&theme=tokyonight" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susverma&theme=tokyonight" />
-</div>
+</div> -->
 
-<p style="display:inline">
+<div style="display:inline">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susverma&layout=compact&theme=dark" alt="Github Stats" width="375px" />
 <img src="https://github-readme-stats.vercel.app/api?username=susverma&show_icons=true&theme=dark" alt="Github Stats" width="450px" />
-</p>
+</div>
 
 
 
 <!-- Code for Activity graph -->
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=susverma&theme=react-dark)](https://github.com/susverma/github-readme-activity-graph)
+<!-- [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=susverma&theme=react-dark)](https://github.com/susverma/github-readme-activity-graph) -->
 
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=susverma)](https://github.com/ryo-ma/github-profile-trophy) -->
