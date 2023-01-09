@@ -38,13 +38,18 @@ I am a Computer Engineering UG student at Babasaheb Bhimrao Ambedkar University 
 
 <!-- For stats -->
 ## Stats
-![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=susverma&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=susverma&&theme=dark)](https://github.com/susverma/github-readme-stats)
+<!-- ![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=susverma&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=susverma&&theme=dark)](https://github.com/susverma/github-readme-stats) -->
 
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=susverma&show_icons=true&theme=dark" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susverma&theme=dark" />
 </div>
+
+<p style="display:inline">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susverma&layout=compact&theme=tokyonight" alt="Github Stats" width="375px" />
+<img src="https://github-readme-stats.vercel.app/api?username=susverma&show_icons=true&theme=tokyonight" alt="Github Stats" width="450px" />
+</p>
 
 
 
