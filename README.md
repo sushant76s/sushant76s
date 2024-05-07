@@ -1,49 +1,49 @@
-<!-- ![Image](https://github.com/susverma/susverma/blob/main/Images/GitHub_Banner2.jpg?raw=true) -->
+<!-- ![Image](https://github.com/sushant76s/sushant76s/blob/main/Images/GitHub_Banner2.jpg?raw=true) -->
 
 
 ### Hi there, I'm Sushant Verma 👋
 
-I am a Computer Engineering UG student at Babasaheb Bhimrao Ambedkar University (A Central University), Lucknow.
+A passionate developer from India
 
-![](https://komarev.com/ghpvc/?username=susverma&color=red&label=Visitors)
+![](https://komarev.com/ghpvc/?username=sushant76s&color=red&label=Visitors)
 
 
 <!-- ## Coding Profiles 💻
-[**HackerRank**](https://www.hackerrank.com/susverma) |
-[**hackerEarth**](http://www.hackerearth.com/@susverma) |
+[**HackerRank**](https://www.hackerrank.com/sushant76s) |
+[**hackerEarth**](http://www.hackerearth.com/@sushant76s) |
 [**GeeksForGeeks**](https://auth.geeksforgeeks.org/user/susverma/profile) |
-[**FreeCodeCamp**](https://www.freecodecamp.org/susverma) -->
+[**FreeCodeCamp**](https://www.freecodecamp.org/sushant76s) -->
 <!-- ## Connect with Me ☎️  -->
-<!-- [**LinkedIn**](https://www.linkedin.com/in/susverma/) | [**Twitter**](https://twitter.com/sushantverma__) | [**Instagram**](https://instagram.com/sushantverma__) -->
+<!-- [**LinkedIn**](https://www.linkedin.com/in/sushant76s/) | [**Twitter**](https://twitter.com/sushant76s) | [**Instagram**](https://instagram.com/sushant76s) -->
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/susverma" target="_blank">
+<a href="https://github.com/sushant76s" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
- <a href="https://linkedin.com/in/susverma" target="_blank">
+ <a href="https://linkedin.com/in/sushant76s" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/sushantverma__" target="_blank">
+<a href="https://twitter.com/sushant76s" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/sushantverma__" target="_blank">
+<a href="https://instagram.com/sushant76s" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div> 
 
 <!-- For stats -->
 ## Stats
-<!-- ![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=susverma&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=susverma&&theme=dark)](https://github.com/susverma/github-readme-stats) -->
+<!-- ![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=sushant76s&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sushant76s&&theme=dark)](https://github.com/susverma/github-readme-stats) -->
 
 <!-- <div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=susverma&show_icons=true&theme=tokyonight" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susverma&theme=tokyonight" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=sushant76s&show_icons=true&theme=tokyonight" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushant76s&theme=tokyonight" />
 </div> -->
 
 <div style="display:inline">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susverma&layout=compact&theme=tokyonight" alt="Github Stats" width="375px" />
-<img src="https://github-readme-stats.vercel.app/api?username=susverma&show_icons=true&theme=tokyonight" alt="Github Stats" width="450px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushant76s&layout=compact&theme=tokyonight" alt="Github Stats" width="375px" />
+<img src="https://github-readme-stats.vercel.app/api?username=sushant76s&show_icons=true&theme=tokyonight" alt="Github Stats" width="450px" />
 </div>
 
 ## Badges
