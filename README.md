@@ -5,7 +5,7 @@
 
 A passionate developer from India
 
-![](https://komarev.com/ghpvc/?username=sushant76s&color=red&label=Visitors)
+<!-- ![](https://komarev.com/ghpvc/?username=sushant76s&color=red&label=Visitors) -->
 
 
 <!-- ## Coding Profiles 💻
@@ -17,7 +17,7 @@ A passionate developer from India
 <!-- [**LinkedIn**](https://www.linkedin.com/in/sushant76s/) | [**Twitter**](https://twitter.com/sushant76s) | [**Instagram**](https://instagram.com/sushant76s) -->
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/sushant76s" target="_blank" style="padding: 5px;" >
+<a href="https://github.com/sushant76s" target="_blank" >
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
  <a href="https://linkedin.com/in/sushant76s" target="_blank">
@@ -32,7 +32,7 @@ A passionate developer from India
 </div> 
 
 <!-- For stats -->
-## Stats
+<!-- ## Stats -->
 <!-- ![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=sushant76s&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sushant76s&&theme=dark)](https://github.com/susverma/github-readme-stats) -->
 
