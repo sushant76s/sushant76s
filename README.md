@@ -41,10 +41,12 @@ A passionate developer from India
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushant76s&theme=tokyonight" />
 </div> -->
 
+<!--
 <div style="display:inline">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushant76s&layout=compact&theme=tokyonight" alt="Github Stats" width="375px" />
 <img src="https://github-readme-stats.vercel.app/api?username=sushant76s&show_icons=true&theme=tokyonight" alt="Github Stats" width="450px" />
 </div>
+-->
 
 ## Badges
 [![@susverma's Holopin board](https://holopin.io/api/user/board?user=susverma)](https://holopin.io/@susverma)
